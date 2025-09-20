@@ -8,7 +8,7 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
   // change site url to your own
-  site: `https://localhost:4321`,
+  site: `https://coryjamescrook.github.io`,
   output: `static`,
   vite: {
     build: {
