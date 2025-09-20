@@ -23,7 +23,7 @@ const embedLink = (url: string) => {
     films.map(({ data: film }) => (
       <div class="pl-4 mb-12">
         <Text size="lg" class="mt-2 lg:mt-4 mb-1" as="h3">
-          {film.title} - {formatShowTime(film.showTime)}
+          {film.title} - {film.showTime}
         </Text>
         <Text variant="muted">{film.synopsis}</Text>
         <ul class="flex mt-3 mb-3">

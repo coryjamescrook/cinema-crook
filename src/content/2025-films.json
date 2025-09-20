@@ -3,7 +3,7 @@
     "id": 0,
     "title": "MadS",
     "synopsis": "A teenager stops off to see his dealer to test a new drug before heading off for a night of partying. On the way home, he picks up an injured woman and the night takes a surreal turn.",
-    "showTime": "2025-09-20T21:00:00-0500",
+    "showTime": "Sat Sep 20 2025 @ 9:00 p.m.",
     "tags": [
       "Zombies",
       "Body Horror",
@@ -16,7 +16,7 @@
     "id": 1,
     "title": "The Lighthouse",
     "synopsis": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
-    "showTime": "2025-09-24T21:00:00-0500",
+    "showTime": "Wed Sep 24 2025 @ 9:00 p.m.",
     "tags": [
       "Psychological Horror",
       "Mystery",
@@ -30,7 +30,7 @@
     "id": 2,
     "title": "In A Violent Nature",
     "synopsis": "When a locket is removed from a collapsed fire tower in the woods that entombs the rotting corpse of Johnny, a vengeful spirit spurred on by a horrific 70-year old crime, his body is resurrected and becomes hellbent on retrieving it.",
-    "showTime": "2025-09-26T21:00:00-0500",
+    "showTime": "Fri Sep 26 2025 @ 9:00 p.m.",
     "tags": [
       "Horror",
       "Slasher",
@@ -44,7 +44,7 @@
     "id": 3,
     "title": "Sinners",
     "synopsis": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-    "showTime": "2025-09-28T21:00:00-0500",
+    "showTime": "Sun Sep 28 2025 @ 9:00 p.m.",
     "tags": [
       "Horror",
       "Blues Music",
@@ -57,7 +57,7 @@
     "id": 4,
     "title": "28 Years Later",
     "synopsis": "A group of survivors of the rage virus live on a small island. When one of the group leaves the island on a mission into the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors.",
-    "showTime": "2025-10-02T21:00:00-0500",
+    "showTime": "Thu Oct 02 2025 @ 9:00 p.m.",
     "tags": [
       "Horror",
       "Zombies",
@@ -70,7 +70,7 @@
     "id": 5,
     "title": "Coherence",
     "synopsis": "Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.",
-    "showTime": "2025-10-03T21:00:00-0500",
+    "showTime": "Fri Oct 03 2025 @ 9:00 p.m.",
     "tags": [
       "Psychological Thriller",
       "Sci-Fi",
@@ -83,20 +83,7 @@
     "id": 6,
     "title": "The Long Walk",
     "synopsis": "A group of teenage boys compete in an annual contest known as \"The Long Walk\", in which they must maintain a certain walking speed or get shot.",
-    "showTime": "2025-10-17T21:00:00-0500",
-    "tags": [
-      "Horror",
-      "Sci-Fi",
-      "Dystopian"
-    ],
-    "trailerUrl": "https://www.youtube.com/watch?v=vAtUHeMQ1F8",
-    "webUrl": "https://www.imdb.com/title/tt10374610"
-  },
-  {
-    "id": 6,
-    "title": "The Long Walk",
-    "synopsis": "A group of teenage boys compete in an annual contest known as \"The Long Walk\", in which they must maintain a certain walking speed or get shot.",
-    "showTime": "2025-10-17T21:00:00-0500",
+    "showTime": "Fri Oct 17 2025 @ 9:00 p.m.",
     "tags": [
       "Horror",
       "Sci-Fi",
@@ -109,7 +96,7 @@
     "id": 7,
     "title": "Weapons",
     "synopsis": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-    "showTime": "2025-10-18T21:00:00-0500",
+    "showTime": "Sat Oct 18 2025 @ 9:00 p.m.",
     "tags": [
       "Horror",
       "Thriller",
@@ -123,7 +110,7 @@
     "id": 8,
     "title": "Black Box",
     "synopsis": "After losing his wife and his memory in a car accident, a single father undergoes an agonizing experimental treatment that causes him to question who he really is.",
-    "showTime": "2025-10-23T21:00:00-0500",
+    "showTime": "Thu Oct 23 2025 @ 9:00 p.m.",
     "tags": [
       "Horror",
       "Sci-Fi",
@@ -137,7 +124,7 @@
     "id": 9,
     "title": "Longlegs",
     "synopsis": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
-    "showTime": "2025-10-29T21:00:00-0500",
+    "showTime": "Wed Oct 29 2025 @ 9:00 p.m.",
     "tags": [
       "Horror",
       "Thriller",
@@ -151,7 +138,7 @@
     "id": 10,
     "title": "The Fly",
     "synopsis": "A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.",
-    "showTime": "2025-10-31T21:00:00-0500",
+    "showTime": "Fri Oct 31 2025 @ 9:00 p.m.",
     "tags": [
       "Horror",
       "Sci-Fi",

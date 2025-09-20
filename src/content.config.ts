@@ -7,7 +7,7 @@ const currentFilms = defineCollection({
     id: z.number(),
     title: z.string(),
     synopsis: z.string(),
-    showTime: z.coerce.date(),
+    showTime: z.string(),
     tags: z.array(z.string()),
     trailerUrl: z.string(),
     webUrl: z.string(),
