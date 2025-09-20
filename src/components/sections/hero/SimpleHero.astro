@@ -2,12 +2,16 @@
 import { Text } from '@src/components/ui/text/index.astro';
 import { Button } from '@src/components/ui/button/index.astro';
 const { pageContent } = Astro.props;
+
+const bgImg =
+  'https://images.unsplash.com/photo-1503925802536-c9451dcd87b5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D';
 ---
 
 <section
-  class="relative flex flex-col items-center justify-center text-center
+  class={`relative flex flex-col items-center justify-center text-center
   px-4 -mt-16
-  min-h-screen lg:min-h-[1080px]"
+  min-h-screen min-w-full lg:min-h-[1080px] bg-[url(/horror-hands.jpg)]
+  bg-cover bg-center bg-no-repeat`}
 >
   {/* Headline */}
   <Text size="hero_headline">{pageContent.headline}</Text>

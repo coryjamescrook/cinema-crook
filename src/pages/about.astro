@@ -14,7 +14,6 @@ const locale: Lang = (Astro.params as { lang?: Lang }).lang || DEFAULT_LANG;
 let pageContent: any = {};
 try {
   pageContent = await loadPageContents(locale, 'about');
-  // console.log(pageContent);
 } catch (error) {
   console.error('Translation loading failed:', error);
   // Add fallback translation handling here if necessary

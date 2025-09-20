@@ -1,8 +1,8 @@
 ---
-import SImpleTimeLine from './SimpleTimeLine.astro';
+import SimpleTimeline from './SimpleTimeLine.astro';
 
 const components = {
-  simple: SImpleTimeLine,
+  simple: SimpleTimeline,
   // add more components here
 };
 
@@ -12,7 +12,7 @@ const { type = 'simple', pageContent } = Astro.props as {
 };
 
 // make component based on input type
-const Component = components[type] || SImpleTimeLine;
+const Component = components[type] || SimpleTimeline;
 /*
 How to use:
 
